@@ -4,8 +4,9 @@
     "\\public",
     "\\src",
     "\\src\\Components",
-    "\\src\\Components\\Pages"
+    "\\src\\Components\\Pages",
+    "\\src\\Components\\test"
   ],
-  "SelectedNode": "\\src\\Components\\Navbar.scss",
+  "SelectedNode": "\\src\\Components\\Footer.js",
   "PreviewInSolutionExplorer": false
 }
